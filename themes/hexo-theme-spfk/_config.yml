@@ -7,6 +7,7 @@ menu:
   个人主页: http://www.rocchen.site
   技术博客: /categories/技术博客/
   文学作品: /categories/文学作品/
+  生活杂谈: /categories/生活杂谈/
 # 静心阅读: /tags
 # 光影之路: /instagram
 # 随笔: /tags/随笔
@@ -80,8 +81,8 @@ youyan:
 background:
   on: true
   #on: false
-  background_sum: 24
-  background_image: 109
+  background_sum: 10
+  background_image: 10
 
 highlight_style:
   on: true
