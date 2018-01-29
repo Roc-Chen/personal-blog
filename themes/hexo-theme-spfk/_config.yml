@@ -4,7 +4,7 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  个人主页: http://www.rocchen.site
+  个人主页: http://www.rocchen.cn
   技术博客: /categories/技术博客/
   文学作品: /categories/文学作品/
   生活杂谈: /categories/生活杂谈/
@@ -127,7 +127,7 @@ tagcloud: true
 # Blogroll, Link exchange | 友情链接
 # friends: false
 friends:
-  Rocchen: http://www.rocchen.site/
+  Rocchen: http://www.rocchen.cn/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
