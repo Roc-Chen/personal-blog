@@ -4,7 +4,7 @@
 ## About Page: `hexo new page about`
 ## Tags Cloud Page: `hexo new page tags`
 menu:
-  个人主页: http://www.rocchen.cn
+#  个人主页: http://www.rocchen.cn
   技术博客: /categories/技术博客/
   文学作品: /categories/文学作品/
   生活杂谈: /categories/生活杂谈/
@@ -28,11 +28,11 @@ subnav:
   github: "https://github.com/Roc-Chen"
   zhihu: "https://www.zhihu.com/people/rocchen/activities"
   weibo: "http://weibo.com/cplsw/home?wvr=5"
-  facebook: "#"
+  facebook: "https://www.facebook.com/profile.php?id=100006529367610"
   # rss: /atom.xml
   # pinterest: "#"
-  QQ: "444873494"
-  wechat: "#"
+  #QQ: "444873494"
+  #wechat: "#"
   # douban: "#"
   # pinboard: "#"
   # stackoverflow: "#"
