@@ -126,8 +126,8 @@ tagcloud: true
 
 # Blogroll, Link exchange | 友情链接
 # friends: false
-friends:
-  Rocchen: http://www.rocchen.cn/
+#  friends:
+#  Rocchen: http://www.rocchen.cn/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
